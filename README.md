@@ -1,7 +1,5 @@
 # Netflix GPT
 
-![Netflix GPT Banner](https://help.nflxext.com/helpcenter/OneTrust/oneTr…-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png)
-
 Netflix GPT is an AI-powered movie recommendation platform built with React + Vite, inspired by Netflix's user interface. This application combines the TMDB API for movie data with Google's Gemini AI API to provide personalized movie recommendations.
 
 🔗 **Live Demo**: [Netflix GPT App](https://netflixgpt-6e513.web.app)
@@ -26,13 +24,6 @@ Netflix GPT is an AI-powered movie recommendation platform built with React + Vi
   - Google Gemini API
 - **Hosting**: Firebase Hosting
 
-## 🖥️ Screenshots
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://i.imgur.com/placeholder1.png" alt="Login Screen" width="400"/>
-  <img src="https://i.imgur.com/placeholder2.png" alt="Browse Screen" width="400"/>
-  <img src="https://i.imgur.com/placeholder3.png" alt="AI Recommendations" width="400"/>
-</div>
 
 ## 📋 Installation & Setup
 
