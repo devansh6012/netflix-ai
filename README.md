@@ -1,8 +1,8 @@
-# Netflix GPT
+# Reactflix GPT
 
-Netflix GPT is an AI-powered movie recommendation platform built with React + Vite, inspired by Netflix's user interface. This application combines the TMDB API for movie data with Google's Gemini AI API to provide personalized movie recommendations.
+Reactflix GPT is an AI-powered movie recommendation platform built with React + Vite, inspired by Reactflix's user interface. This application combines the TMDB API for movie data with Google's Gemini AI API to provide personalized movie recommendations.
 
-🔗 **Live Demo**: [Netflix GPT App](https://netflixgpt-6e513.web.app)
+🔗 **Live Demo**: [Reactflix GPT App](https://reactflix-f417f.web.app)
 
 ## 🚀 Features
 
@@ -29,8 +29,8 @@ Netflix GPT is an AI-powered movie recommendation platform built with React + Vi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/devansh6012/netflix-ai.git
-   cd netflix-ai
+   git clone https://github.com/devansh6012/Reactflix-ai.git
+   cd Reactflix-ai
    ```
 
 2. **Install dependencies**
@@ -94,7 +94,7 @@ This app is configured for Firebase deployment. To deploy:
 
 ## 🧠 How AI Integration Works
 
-Netflix GPT uses Google's Gemini API to generate movie recommendations based on user inputs. When a user enters a genre, mood, or specific criteria, the application:
+Reactflix GPT uses Google's Gemini API to generate movie recommendations based on user inputs. When a user enters a genre, mood, or specific criteria, the application:
 
 1. Processes the user's query
 2. Sends a formatted prompt to the Gemini API
@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [TMDB API](https://www.themoviedb.org/documentation/api) for providing movie data
 - [Google Gemini AI](https://ai.google.dev/) for AI capabilities
-- [Netflix](https://www.netflix.com) for the UI inspiration
+- [Reactflix](https://www.Reactflix.com) for the UI inspiration

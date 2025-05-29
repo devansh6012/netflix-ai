@@ -7,11 +7,11 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_KEY,
-  authDomain: "netflixgpt-6e513.firebaseapp.com",
-  projectId: "netflixgpt-6e513",
-  storageBucket: "netflixgpt-6e513.firebasestorage.app",
-  messagingSenderId: "328521666875",
-  appId: "1:328521666875:web:fab0582b434d986998e71e"
+  authDomain: "reactflix-f417f.firebaseapp.com",
+  projectId: "reactflix-f417f",
+  storageBucket: "reactflix-f417f.firebasestorage.app",
+  messagingSenderId: "1039556327072",
+  appId: "1:1039556327072:web:0c7243519f0fb8a5aefbc5"
 };
 
 // Initialize Firebase

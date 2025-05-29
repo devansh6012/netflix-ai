@@ -123,7 +123,7 @@ const Login = () => {
           onClick={() => toggleSignInForm()}
         >
           {isSignInForm
-            ? "New to Netflix? Sign Up Now"
+            ? "New here? Sign Up Now"
             : "Already a user? Sign In"}
         </p>
       </form>
