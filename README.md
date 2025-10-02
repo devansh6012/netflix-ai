@@ -2,7 +2,7 @@
 
 Reactflix GPT is an AI-powered movie recommendation platform built with React + Vite, inspired by Reactflix's user interface. This application combines the TMDB API for movie data with Google's Gemini AI API to provide personalized movie recommendations.
 
-🔗 **Live Demo**: [Reactflix GPT App](https://reactflix-f417f.web.app)
+🔗 **Live Demo**: [Reactflix GPT App](https://github.com/devansh6012/netflix-ai)
 
 ## 🚀 Features
 
